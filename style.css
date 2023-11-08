@@ -53,14 +53,20 @@ img{
 
 footer{
     background: navy;
-    text-align: center;
+    text-align: right;
     color: white;
-    position: absolute;
+    position:relative;
     bottom: 0;
     width: 100%;
-}
+}   
 
 form{
     border: 2px solid black;
     padding: 1rem;
+}
+
+table{
+    background-color: blue;
+    text-shadow: #000;
+    color: red;
 }
